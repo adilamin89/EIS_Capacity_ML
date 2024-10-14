@@ -1,1 +1,1 @@
-# EIS_Capacity_ML
+# Linear, Ridge, Lasso regressios for Califronia Housing Market
